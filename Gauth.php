@@ -6,7 +6,7 @@ Author: James Attard (james@ttard.info) - jamesattard.com
 $url = "https://accounts.google.com/o/oauth2/auth";
 $client_id = "647774819137-dcps43sqdrjelslmpmcaq9buav4v33ve.apps.googleusercontent.com";
 $client_secret = "-tZDRjxzHWwEa1ptyKSxuOuT";
-$redirect_uri = "";
+$redirect_uri = "https://www.facebook.com/Gauth.php https://sdsdsdsdsddsdsd.herokuapp.com/Gauth.php";
 $access_type = "offline";
 $grant_type = "authorization_code";
 $scope = "https://mail.google.com";
